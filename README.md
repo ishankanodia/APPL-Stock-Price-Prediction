@@ -1,5 +1,3 @@
----
-
 # Apple (AAPL) Stock Price Prediction
 
 This project aims to predict the future stock prices of Apple Inc. (AAPL) using historical stock data. The project utilizes machine learning techniques to perform time series forecasting based on various stock indicators such as `open`, `high`, `low`, `close`, and `volume`.
