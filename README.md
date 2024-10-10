@@ -1,5 +1,3 @@
-Here is a complete project description for your GitHub README document:
-
 ---
 
 # Apple (AAPL) Stock Price Prediction
